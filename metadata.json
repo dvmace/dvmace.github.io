@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Content Detector",
+  "description": "A web application to identify AI-generated text. It provides a confidence score and highlights specific sentences or segments likely written by artificial intelligence using a visual heatmap."
+}
